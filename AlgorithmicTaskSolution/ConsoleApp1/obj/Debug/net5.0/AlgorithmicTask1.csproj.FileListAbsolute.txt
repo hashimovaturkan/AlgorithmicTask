@@ -1,0 +1,15 @@
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.exe
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.deps.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.runtimeconfig.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.runtimeconfig.dev.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\ref\AlgorithmicTask1.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\bin\Debug\net5.0\AlgorithmicTask1.pdb
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.AssemblyInfoInputs.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.AssemblyInfo.cs
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.csproj.CoreCompileInputs.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ref\AlgorithmicTask1.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.pdb
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\AlgorithmicTask1.genruntimeconfig.cache

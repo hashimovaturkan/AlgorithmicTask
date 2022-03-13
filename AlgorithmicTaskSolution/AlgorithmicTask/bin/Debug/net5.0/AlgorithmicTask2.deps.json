@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlgorithmicTask2/1.0.0": {
+        "runtime": {
+          "AlgorithmicTask2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgorithmicTask2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

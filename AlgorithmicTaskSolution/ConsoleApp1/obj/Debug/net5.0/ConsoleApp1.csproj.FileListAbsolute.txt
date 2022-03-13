@@ -1,0 +1,5 @@
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache

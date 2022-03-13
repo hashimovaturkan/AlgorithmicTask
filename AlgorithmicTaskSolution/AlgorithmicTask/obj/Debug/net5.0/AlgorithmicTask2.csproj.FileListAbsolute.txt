@@ -1,0 +1,16 @@
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.exe
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.deps.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.runtimeconfig.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.runtimeconfig.dev.json
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\ref\AlgorithmicTask2.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\bin\Debug\net5.0\AlgorithmicTask2.pdb
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.csproj.AssemblyReference.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.AssemblyInfoInputs.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.AssemblyInfo.cs
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.csproj.CoreCompileInputs.cache
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\ref\AlgorithmicTask2.dll
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.pdb
+D:\Lesson\HorizoneTasks\AlgorithmicTaskSolution\AlgorithmicTask\obj\Debug\net5.0\AlgorithmicTask2.genruntimeconfig.cache
